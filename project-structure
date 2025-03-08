@@ -1,0 +1,25 @@
+react-native-debug-console/
+├── src/
+│   ├── components/
+│   │   ├── DebugButton.tsx
+│   │   ├── DebugConsole.tsx
+│   │   ├── LogList.tsx
+│   │   └── LogItem.tsx
+│   ├── hooks/
+│   │   ├── useLogger.ts
+│   │   ├── useMemoryLeakDetection.ts
+│   │   └── useConsoleInterceptor.ts
+│   ├── utils/
+│   │   ├── logInterceptor.ts
+│   │   ├── memoryLeakDetector.ts
+│   │   └── configManager.ts
+│   ├── types/
+│   │   └── index.ts
+│   └── index.ts
+├── example/
+│   └── App.tsx
+├── package.json
+├── tsconfig.json
+├── .eslintrc.js
+├── .prettierrc.js
+└── README.md 
