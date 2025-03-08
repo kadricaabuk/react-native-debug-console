@@ -1,0 +1,58 @@
+# Source files
+src/
+examples/
+__tests__/
+__mocks__/
+
+# Development configs
+.github/
+.vscode/
+.idea/
+.eslintrc
+.eslintrc.js
+.eslintignore
+.prettierrc
+.prettierrc.js
+.babelrc
+.editorconfig
+tsconfig.json
+jest.config.js
+babel.config.js
+metro.config.js
+
+# Build tools
+rollup.config.js
+webpack.config.js
+
+# Git files
+.git/
+.gitignore
+.gitattributes
+
+# CI/CD
+.circleci/
+.travis.yml
+.gitlab-ci.yml
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.DS_Store
+.env
+.env.*
+coverage/
+node_modules/
+*.tgz
+.npmrc
+
+# Demo/Example app
+demo/
+example/
+playground/
+
+# Documentation source files
+docs/ 
